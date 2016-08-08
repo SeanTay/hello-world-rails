@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
-
+#user auth
+gem 'devise'
+# React on rails
+gem 'react_on_rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0'
 # Use postgresql as the database for Active Record
